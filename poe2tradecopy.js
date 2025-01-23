@@ -5,8 +5,8 @@
 // @author       Kevin M - Modified by seanGSISG
 // @match        https://www.pathofexile.com/trade2/*
 // @icon         https://www.google.com/s2/favicons?domain=pathofexile.com
-// @updateURL    https://github.com/seanGSISG/PoE2-Copy-Button/raw/refs/heads/main/poe2tradecopy.js
-// @downloadURL  https://github.com/seanGSISG/PoE2-Copy-Button/raw/refs/heads/main/poe2tradecopy.js
+// @updateURL    https://gist.githubusercontent.com/seanGSISG/d2efc1d4355456e3b7d7b89b1b804b54/raw/4cd63f95972538bb23872e84cd2d85ee314a2e60/poe2tradecopy.js
+// @downloadURL  https://gist.githubusercontent.com/seanGSISG/d2efc1d4355456e3b7d7b89b1b804b54/raw/4cd63f95972538bb23872e84cd2d85ee314a2e60/poe2tradecopy.js
 // @grant        none
 // ==/UserScript==
 
