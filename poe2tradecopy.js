@@ -2,11 +2,11 @@
 // @name         PoE2 Trade Copy Item Button
 // @version      0.6
 // @description  Adds a button to the PoE2 Trade page that allows you to copy the item description and affixes to your clipboard.
-// @author       Kevin M
+// @author       Kevin M - Modified by seanGSISG
 // @match        https://www.pathofexile.com/trade2/*
 // @icon         https://www.google.com/s2/favicons?domain=pathofexile.com
-// @updateURL    https://gist.github.com/Krytos/fcb435878b9ee214c8ef9c5d9a685861/raw/poe2trade.user.js
-// @downloadURL  https://gist.github.com/Krytos/fcb435878b9ee214c8ef9c5d9a685861/raw/poe2trade.user.js
+// @updateURL    https://github.com/seanGSISG/PoE2-Copy-Button/raw/refs/heads/main/poe2tradecopy.js
+// @downloadURL  https://github.com/seanGSISG/PoE2-Copy-Button/raw/refs/heads/main/poe2tradecopy.js
 // @grant        none
 // ==/UserScript==
 
