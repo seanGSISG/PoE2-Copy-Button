@@ -38,9 +38,23 @@
                 let outputText = '';
 
                 // Rarity
-                const rarity = row.querySelector('.normalPopup, .magicPopup, .rarePopup, .uniquePopup');
-                if (rarity) {
-                    outputText += `Rarity: ${rarity.classList[0].replace('Popup', '')}\n`;
+                const normal = row.querySelector('.normalPopup');
+                const magic = row.querySelector('.magicPopup');
+                const rare = row.querySelector('.rarePopup');
+                const unique = row.querySelector('.uniquePopup');
+
+                if (normal) {
+                    console.log('normal');
+                    outputText += `Rarity: Normal\n`;
+                } else if (magic) {
+                    console.log('magic');
+                    outputText += `Rarity: Magic\n`;
+                } else if (rare) {
+                    console.log('rare');
+                    outputText += `Rarity: Rare\n`;
+                } else if (unique) {
+                    console.log('unique');
+                    outputText += `Rarity: Unique\n`; // Changed 'unique' to 'Unique'
                 }
 
                 // Item Name & Type Line
